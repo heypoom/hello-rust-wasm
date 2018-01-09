@@ -1,0 +1,7 @@
+[package]
+authors = ["Phoomparin Mano"]
+name = "yo-rust-wasm"
+version = "0.1.0"
+
+[dependencies]
+stdweb = "0.3.0"
